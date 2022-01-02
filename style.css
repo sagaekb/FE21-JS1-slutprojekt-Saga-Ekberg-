@@ -1,0 +1,37 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0%;
+    background: linear-gradient(#3eadcf, #abe9cd);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#37d5d6;
+}
+
+.card{
+    background: white;
+    padding: 3em;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 20em;
+    margin: 2em;
+    
+}
+
+.sök{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border: transparent;
+    margin: 1em;
+    border-radius: 20em;
+}
+
+input{
+    border-radius: 20em;
+   
+}
